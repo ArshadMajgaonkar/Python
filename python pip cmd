@@ -1,0 +1,8 @@
+1. to upgrade pip using cmd
+      python -m pip install --upgrade pip
+      
+2. to check packages
+      pip list
+      
+3.to install a sepcific pacakge
+    pip install matplotlib
